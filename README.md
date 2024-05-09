@@ -16,7 +16,7 @@ This backend functionality allows the ecommerce company applications for the com
 
 GitHub repo link: https://github.com/dahfefe/ecommerce-site-backend-technology
 
-Video Link for illustration of CRUD operations: 
+Video Link for illustration of CRUD operations: https://watch.screencastify.com/v/qNeQ1pq7QzLhFpmn3vEA
 
 ## What I Learned
   
